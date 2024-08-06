@@ -8,7 +8,7 @@ library(reshape2)
 library(rpart.plot)
 library(tidyverse)
 
-rest_rev <- read.csv("C:/Users/there/Downloads/Restaurant_revenue (1).csv")
+rest_rev <- read.csv("Restaurant revenue.csv")
 View(rest_rev)
 
 ###########################################################################
